@@ -1,0 +1,4 @@
+node_modules/
+.testing/
+config.json
+test/manual.js
