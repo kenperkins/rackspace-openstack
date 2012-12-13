@@ -48,6 +48,10 @@ client.createServer({
 ## Run Tests
 All rackspace-openstack tests are available by running `make test`
 
+## Credit
+Much of the shape of this library was courtesy of [Charlie Robbins][1] and the team at Nodejitsu for [node-cloudservers][2]
 #### Author: [Ken Perkins](http://github.com/kenperkins)
 
 [0]: http://docs.rackspace.com/servers/api/v2/cs-devguide/content/ch_preface.html
+[1]: http://github.com/indexzero
+[2]: https://github.com/nodejitsu/node-cloudservers
