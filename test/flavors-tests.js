@@ -1,4 +1,4 @@
-var os = require('../lib/openstack');
+var os = require('../lib/rackspace-openstack');
 var config = require('../config.json');
 var should = require('should'),
     util = require('util');

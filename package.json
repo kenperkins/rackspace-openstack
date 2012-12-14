@@ -1,7 +1,7 @@
 {
     "name": "rackspace-openstack",
     "description": "A client implementation for Rackspace Openstack in node.js",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Clipboard, Inc. <support@clipboard.com>",
     "maintainers": [
         {
@@ -14,16 +14,22 @@
         "url": "http://github.com/clipboard/rackspace-openstack.git"
     },
     "keywords": [
+        "rackspace",
         "cloud computing",
         "api",
         "rackspace cloud",
+        "cloud servers",
         "cloudservers",
-        "openstack"
+        "open stack",
+        "openstack",
+        "cloud dns",
+        "clouddns"
     ],
     "dependencies": {
         "pkginfo": "0.2.x",
         "request": "2.9.x",
-        "underscore": "1.4.x"
+        "underscore": "1.4.x",
+        "async": "0.1.22"
     },
     "devDependencies": {
         "mocha": "1.6.x",
