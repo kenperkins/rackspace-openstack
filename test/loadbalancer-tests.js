@@ -25,7 +25,7 @@ describe('Load Balancer tests', function() {
             should.exist(err);
             should.not.exist(loadBalancer);
 
-            err.requiredParametersMissing.length.should.equal(4);
+            err.requiredParametersMissing.length.should.equal(5);
 
             done();
         });

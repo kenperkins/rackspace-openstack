@@ -1,4 +1,4 @@
-MOCHA_OPTS=-t 120000 test/loadbalancer-tests.js
+MOCHA_OPTS=-t 120000 test/*-tests.js
 REPORTER = spec
 
 check: test
