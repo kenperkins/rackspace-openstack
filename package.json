@@ -1,7 +1,7 @@
 {
     "name": "rackspace-openstack",
     "description": "A client implementation for Rackspace Openstack in node.js",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Clipboard, Inc. <support@clipboard.com>",
     "maintainers": [
         {
@@ -20,6 +20,9 @@
         "rackspace cloud",
         "cloud servers",
         "cloudservers",
+        "cloud loadbalancers",
+        "load balancer",
+        "reverse proxy",
         "open stack",
         "openstack",
         "cloud dns",
