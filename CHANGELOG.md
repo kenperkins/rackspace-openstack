@@ -1,3 +1,6 @@
+# v0.0.5 #
+- Fixed a bug in package.json to rename include
+
 # v0.0.4 #
 - Adding support for Rackspace Cloud LoadBalancers
     - New built-in types for LoadBalancer, Node, VirtualIp
