@@ -1,7 +1,7 @@
 {
     "name": "rackspace-openstack",
     "description": "A client implementation for Rackspace Openstack in node.js",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "author": "Clipboard, Inc. <support@clipboard.com>",
     "maintainers": [
         {

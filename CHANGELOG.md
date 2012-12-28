@@ -1,3 +1,8 @@
+# v0.0.6 #
+- Added createServerWithWait functions
+- Various bug fixes in cloudDns wrapper
+- Added preliminary support for winston logging
+
 # v0.0.5 #
 - Fixed a bug in package.json to rename include
 
