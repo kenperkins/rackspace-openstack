@@ -32,7 +32,8 @@
         "pkginfo": "0.2.x",
         "request": "2.9.x",
         "underscore": "1.4.x",
-        "async": "0.1.22"
+        "async": "0.1.22",
+        "winston": "0.6.2"
     },
     "devDependencies": {
         "mocha": "1.6.x",
