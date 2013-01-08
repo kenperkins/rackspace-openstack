@@ -1,3 +1,6 @@
+# v0.0.7 #
+- Minor fix to support a max timeout on server creation
+
 # v0.0.6 #
 - Added createServerWithWait functions
 - Various bug fixes in cloudDns wrapper
