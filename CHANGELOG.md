@@ -1,3 +1,6 @@
+# v0.0.8 #
+- First integration of CloudBlockStorage functionality
+
 # v0.0.7 #
 - Minor fix to support a max timeout on server creation
 
