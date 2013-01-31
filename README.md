@@ -91,6 +91,24 @@ client.createLoadBalancer({
 
 ```
 
+### Create and attach a Cloud BlockStorage Volume
+```Javascript
+client.getServer(serverId, function(err, server) {
+    client.createVolume({
+        display_name: 'my new volume ' + serverId,
+        size: 100,
+        volume_type: rackspace.VolumeType.SATA
+    }, function(err, volume) {
+        server.attachVolume({
+            volumeId: volume.id,
+            device: '/dev/xvdb'
+        }, function(err, result) {
+            // Use your Volume Here
+        });
+    });
+});
+```
+
 ## Run Tests
 All rackspace-openstack tests are available by running `make test`
 
