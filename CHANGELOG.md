@@ -1,3 +1,6 @@
+# v0.0.9 #
+- Minor change to support `npm test`
+
 # v0.0.8 #
 - First integration of CloudBlockStorage functionality
 

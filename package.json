@@ -1,17 +1,17 @@
 {
     "name": "rackspace-openstack",
     "description": "A client implementation for Rackspace Openstack in node.js",
-    "version": "0.0.8",
-    "author": "Clipboard, Inc. <support@clipboard.com>",
+    "version": "0.0.9",
+    "author": "Ken Perkins <ken@ksperkins.com>",
     "maintainers": [
         {
             "name": "Ken Perkins",
-            "email": "ken@clipboard.com"
+            "email": "ken@ksperkins.com"
         }
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/clipboard/rackspace-openstack.git"
+        "url": "http://github.com/kenperkins/rackspace-openstack.git"
     },
     "keywords": [
         "rackspace",
@@ -28,6 +28,9 @@
         "cloud dns",
         "clouddns"
     ],
+    "scripts": {
+        "test": "make test"
+    },
     "dependencies": {
         "pkginfo": "0.2.x",
         "request": "2.9.x",
