@@ -1,7 +1,7 @@
 {
     "name": "rackspace-openstack",
     "description": "A client implementation for Rackspace Openstack in node.js",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "author": "Ken Perkins <ken@ksperkins.com>",
     "maintainers": [
         {
@@ -26,7 +26,9 @@
         "open stack",
         "openstack",
         "cloud dns",
-        "clouddns"
+        "clouddns",
+        "cloud databases",
+        "databases"
     ],
     "scripts": {
         "test": "make test"
