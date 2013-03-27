@@ -1,3 +1,6 @@
+# v0.0.10#
+- Adding preliminary support for Cloud Databases [Andrew Regner](https://github.com/adregner)
+
 # v0.0.9 #
 - Minor change to support `npm test`
 
