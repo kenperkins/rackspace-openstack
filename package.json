@@ -1,7 +1,7 @@
 {
     "name": "rackspace-openstack",
-    "description": "A client implementation for Rackspace Openstack in node.js",
-    "version": "0.0.10",
+    "description": "Deprecated - A client implementation for Rackspace Openstack in node.js",
+    "version": "0.0.11",
     "author": "Ken Perkins <ken@ksperkins.com>",
     "maintainers": [
         {

@@ -2,6 +2,10 @@
 
 A client implementation for the Rackspace Openstack API (v2)
 
+## THIS PACKAGE IS NOW DEPRECATED ##
+
+All functionality in this package is either implemented in [pkgcloud](https://github.com/nodejitsu/pkgcloud) or is in the process of being migrated to pkgcloud. Please only use this package for prototyping at this point as the next published version will remove functionality entirely.
+
 ## Usage
 
 The rackspace-openstack module is compliant with the [Rackspace Openstack API][0]. rackspace-openstack
